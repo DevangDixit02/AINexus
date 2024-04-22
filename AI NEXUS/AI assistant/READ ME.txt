@@ -1,0 +1,13 @@
+If there is an error in installing pyaudio, enter the history folder.There you will file another 
+folder of name requirment file. Find the version of the python. If the python version is 3.8 then 
+use cp38 and also see the type of python. If it is 32 bit then use win32 and if it is 64 bit then 
+use win_amd64.
+
+		How to install pyaudio:
+step 1): Click on the top bar where you see the path of the folder. Type cmd in that area and hit enter.
+step 2): Now type "pip install name of the file"  and hit enter.
+	 for eg: "pip install PyAudio-0.2.11-cp38-cp38-win32.whl"
+
+
+Pyaudio will start to install.
+If you still face an error then check wheather you selected the suitable type of file and python version
